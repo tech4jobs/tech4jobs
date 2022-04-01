@@ -1,6 +1,8 @@
 ## Tech4me - Escola de Tecnologia e Inovação
 
-<img src="https://www.tech4me.com.br/img/foto_sede_tech4me_03.jpg" style="max-width: 100%; width: 600px; display: block; margin: auto; box-shadow: 0 4px 8px 0 rgba(0, 229, 255, 0.2), 0 6px 20px 0 rgba(0, 229, 255, 0.2);">
+<div style="display: flex; justify-content: center;">
+        <img src="https://www.tech4me.com.br/img/foto_sede_tech4me_03.jpg" style="max-width: 100%; width: 600px; box-shadow: 0 4px 8px 0 rgba(0, 229, 255, 0.2), 0 6px 20px 0 rgba(0, 229, 255, 0.2);">
+</div>
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCXgDUn-KjAZ1AKs8X2OzR5w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
